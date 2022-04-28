@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`Attica Group`](https://google.com/search?q=Attica+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-28 | [`CORFERIAS`](https://google.com/search?q=CORFERIAS) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`ALMANIE GROUP`](https://google.com/search?q=ALMANIE+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-21 | [`CYMZ`](https://google.com/search?q=CYMZ) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-04-21 | [`www.oil-india.com`](https://google.com/search?q=www.oil-india.com) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-04-20 | [`Simonson-Lumber Inc. First batch of Data.`](https://google.com/search?q=Simonson-Lumber+Inc.+First+batch+of+Data.) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
-| 2022-04-20 | [`Visotec Group www.visotec.com`](https://google.com/search?q=Visotec+Group+www.visotec.com) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
