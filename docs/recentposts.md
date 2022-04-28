@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`LARON an otp industrial solutions company`](https://google.com/search?q=LARON+an+otp+industrial+solutions+company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-28 | [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`Stratton Finance`](https://google.com/search?q=Stratton+Finance) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`Est Ensemble`](https://google.com/search?q=Est+Ensemble) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-21 | [`Volvo data breach`](https://google.com/search?q=Volvo+data+breach) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`UKG Kronos Data Leak`](https://google.com/search?q=UKG+Kronos+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`T Mobile Data Leak Dec-2021`](https://google.com/search?q=T+Mobile+Data+Leak+Dec-2021) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-04-21 | [`breadt`](https://google.com/search?q=breadt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
