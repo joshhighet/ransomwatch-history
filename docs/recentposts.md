@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-28 | [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-28 | [`Stratton Finance`](https://google.com/search?q=Stratton+Finance) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-28 | [`Est Ensemble`](https://google.com/search?q=Est+Ensemble) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-28 | [`Tehama County Social Services`](https://google.com/search?q=Tehama+County+Social+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-28 | [`Ragle Incorporated`](https://google.com/search?q=Ragle+Incorporated) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-28 | [`hydromaxusa.com`](https://google.com/search?q=hydromaxusa.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-28 | [`Attica Group`](https://google.com/search?q=Attica+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-04-21 | [`UKG Kronos Data Leak`](https://google.com/search?q=UKG+Kronos+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`T Mobile Data Leak Dec-2021`](https://google.com/search?q=T+Mobile+Data+Leak+Dec-2021) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
 | 2022-04-21 | [`breadt`](https://google.com/search?q=breadt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-21 | [`US Cellular data leak Dec-2021`](https://google.com/search?q=US+Cellular+data+leak+Dec-2021) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-04-21 | [`Major indian cryptocurrency Data Leak`](https://google.com/search?q=Major+indian+cryptocurrency+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-04-21 | [`Asfaltproductienijmegen`](https://google.com/search?q=Asfaltproductienijmegen) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-04-21 | [`CYMZ`](https://google.com/search?q=CYMZ) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
