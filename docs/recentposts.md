@@ -4,6 +4,11 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`Associazione Bancaria Italiana`](https://google.com/search?q=Associazione+Bancaria+Italiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Building Plastics, Inc.`](https://google.com/search?q=Building+Plastics%2C+Inc.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`Fonseca Supermarkets`](https://google.com/search?q=Fonseca+Supermarkets) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-04-29 | [`GOLDENDUCK GROUP`](https://google.com/search?q=GOLDENDUCK+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Pacific Maritime Industries Corp.`](https://google.com/search?q=Pacific+Maritime+Industries+Corp.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`Advantage Direct Care`](https://google.com/search?q=Advantage+Direct+Care) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
@@ -99,8 +104,3 @@ _last `100` posts_
 | 2022-04-22 | [`wilshire.com`](https://google.com/search?q=wilshire.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-22 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`incegd.com`](https://google.com/search?q=incegd.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-21 | [`Small Industries Development`](https://google.com/search?q=Small+Industries+Development) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-21 | [`Morrie's Auto Group`](https://google.com/search?q=Morrie%27s+Auto+Group) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2022-04-21 | [`Al Bijjar`](https://google.com/search?q=Al+Bijjar) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
-| 2022-04-21 | [`tvothai.com`](https://google.com/search?q=tvothai.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
