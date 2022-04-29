@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`remar.`](https://google.com/search?q=remar.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`www.innotecgroup.com`](https://google.com/search?q=www.innotecgroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-29 | [`Jasper County Sheriff's Office`](https://google.com/search?q=Jasper+County+Sheriff%27s+Office) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-24 | [`ALEXIM.COM FILES PART8 - 192.168.3.5\Mail\csanchez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART8+-+192.168.3.5%5CMail%5Ccsanchez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`AFJCONSULTING.NET FILES PART3 - E\data\documents\  PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART3+-+E%5Cdata%5Cdocuments%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-24 | [`Co-opbank Pertama`](https://google.com/search?q=Co-opbank+Pertama) | [suncrypt](https://ransomwatch.telemetry.ltd/#/profiles?id=suncrypt) |
-| 2022-04-23 | [`MCH-GROUP.COM FILES PART29 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\  PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART29+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
