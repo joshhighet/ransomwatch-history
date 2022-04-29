@@ -4,6 +4,25 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-04-29 | [`KSSENTERPRISES.COM FILES PART2 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART2+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`ZISSERFAMILYLAW.COM FILES PART6 - D\Shares\DATA\ PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART6+-+D%5CShares%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`SA1SOLUTIONS.COM  FILES PART6 - 192.168.10.238\D$\Sharepoint\SA1 SOLUTIONS\Helpdesk - Docu`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART6+-+192.168.10.238%5CD%24%5CSharepoint%5CSA1+SOLUTIONS%5CHelpdesk+-+Docu) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`SSMSJUSTICE.COM FILES PART33 - 192.168.1.247, F PUBLISHED`](https://google.com/search?q=SSMSJUSTICE.COM+FILES+PART33+-+192.168.1.247%2C+F+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`ORBITELECTRIC.COM FILES PART4 - 192.168.10.3\E$\USERS\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART4+-+192.168.10.3%5CE%24%5CUSERS%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`OAKDELL.COM FILES PART6 - 192.168.100.137\C$\Users\clillywhite\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART6+-+192.168.100.137%5CC%24%5CUsers%5Cclillywhite%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`JDAVIDTAXLAW.COM FILES PART6 - E_Previous_Employees\ PUBLISHED`](https://google.com/search?q=JDAVIDTAXLAW.COM+FILES+PART6+-+E_Previous_Employees%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`FAIR-RITE.COM FILES PART6 - 172.16.20.10 PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART6+-+172.16.20.10+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`DRIVEANDSHINE.COM FILES PART6 - 192.168.200.14, 192.168.200.17 PUBLISHED`](https://google.com/search?q=DRIVEANDSHINE.COM+FILES+PART6+-+192.168.200.14%2C+192.168.200.17+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`DRC-LAW.COM FILES PART6 - 10.10.1.2\C$\Shares\Data\Documents\Clients\A-H\Alpine Consulting`](https://google.com/search?q=DRC-LAW.COM+FILES+PART6+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CA-H%5CAlpine+Consulting) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`ALTERNATIVETECHS.COM FILES PART6 - C\Shares\Alternative\accounting\ARCHIVE - former staff `](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART6+-+C%5CShares%5CAlternative%5Caccounting%5CARCHIVE+-+former+staff+) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`JBINSTANTLAWN.NET FILES PART9 - JB-SERVER\D$\ServerFolders\Company\Accounting\Digital File`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART9+-+JB-SERVER%5CD%24%5CServerFolders%5CCompany%5CAccounting%5CDigital+File) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`ALEXIM.COM FILES PART9 - 192.168.3.5\Mail\csanchez\ PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART9+-+192.168.3.5%5CMail%5Ccsanchez%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`AFJCONSULTING.NET FILES PART4 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART4+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`MCH-GROUP.COM FILES PART30 - 172.16.60.11\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART30+-+172.16.60.11%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`EDAN.COM FILES PART29 - 192.168.2.200\D$\法务部\法务部\06-离职交接文件\宁姐\ PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART29+-+192.168.2.200%5CD%24%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C06-%E7%A6%BB%E8%81%8C%E4%BA%A4%E6%8E%A5%E6%96%87%E4%BB%B6%5C%E5%AE%81%E5%A7%90%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`BOLTONUSA.COM FILES PART34 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\PBGC-DISC_Mul`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART34+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CPBGC-DISC_Mul) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
+| 2022-04-29 | [`watermarkbeachr`](https://google.com/search?q=watermarkbeachr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Mercadocar Mercantil Ltda.`](https://google.com/search?q=Mercadocar+Mercantil+Ltda.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Suhl. City in Germany`](https://google.com/search?q=Suhl.+City+in+Germany) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`MOTIVE-ENERGY - HACKED AND 1.5 TB DATA LEAKED`](https://google.com/search?q=MOTIVE-ENERGY+-+HACKED+AND+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
@@ -85,22 +104,3 @@ _last `100` posts_
 | 2022-04-23 | [`MCH-GROUP.COM FILES PART29 - 172.16.60.11\azurefs\EFFFiles\LMSUserHomeDirs\  PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART29+-+172.16.60.11%5Cazurefs%5CEFFFiles%5CLMSUserHomeDirs%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-04-23 | [`valoores.com`](https://google.com/search?q=valoores.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-23 | [`tigergroup.ae`](https://google.com/search?q=tigergroup.ae) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-23 | [`EDAN.COM FILES PART28 - 192.168.2.200\D$\法务部\法务部\06-离职交接文件\宁姐\  PUBLISHED`](https://google.com/search?q=EDAN.COM+FILES+PART28+-+192.168.2.200%5CD%24%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C%E6%B3%95%E5%8A%A1%E9%83%A8%5C06-%E7%A6%BB%E8%81%8C%E4%BA%A4%E6%8E%A5%E6%96%87%E4%BB%B6%5C%E5%AE%81%E5%A7%90%5C++PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-23 | [`BOLTONUSA.COM FILES PART33 - 10.0.0.20\c$\BOD_HQ_CIFS\DB_Dept\DB_DEPT\CLIENT\PBGC-DISC_Mul`](https://google.com/search?q=BOLTONUSA.COM+FILES+PART33+-+10.0.0.20%5Cc%24%5CBOD_HQ_CIFS%5CDB_Dept%5CDB_DEPT%5CCLIENT%5CPBGC-DISC_Mul) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-23 | [`greenex`](https://google.com/search?q=greenex) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-23 | [`ccfsinc.com`](https://google.com/search?q=ccfsinc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-23 | [`SWIRESPO.COM FILES PART28 - 172.16.10.167 PUBLISHED`](https://google.com/search?q=SWIRESPO.COM+FILES+PART28+-+172.16.10.167+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-23 | [`www.tigergroup....`](https://google.com/search?q=www.tigergroup....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-23 | [`https://valoore...`](https://google.com/search?q=https%3A%2F%2Fvaloore...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-23 | [`Jasec`](https://google.com/search?q=Jasec) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-23 | [`Mossbourne Federation`](https://google.com/search?q=Mossbourne+Federation) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-22 | [`Centre Hospitalier de Castelluccio`](https://google.com/search?q=Centre+Hospitalier+de+Castelluccio) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-22 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
-| 2022-04-22 | [`Calvetti Ferguson`](https://google.com/search?q=Calvetti+Ferguson) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-22 | [`prophoenix`](https://google.com/search?q=prophoenix) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-04-22 | [`metrobrokers`](https://google.com/search?q=metrobrokers) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2022-04-22 | [`simplilearn.net`](https://google.com/search?q=simplilearn.net) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`PT Pertamina Gas`](https://google.com/search?q=PT+Pertamina+Gas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-04-22 | [`fazenda.rj.gov....`](https://google.com/search?q=fazenda.rj.gov....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`lifestylesoluti...`](https://google.com/search?q=lifestylesoluti...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-22 | [`produitsneptune...`](https://google.com/search?q=produitsneptune...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
