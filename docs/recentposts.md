@@ -4,6 +4,12 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-04-29 | [`Pacific Maritime Industries Corp.`](https://google.com/search?q=Pacific+Maritime+Industries+Corp.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-04-29 | [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-04-29 | [`Advantage Direct Care`](https://google.com/search?q=Advantage+Direct+Care) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-04-29 | [`C&C FARMERSâ SUPPLY CORP`](https://google.com/search?q=C%26C+FARMERS%C3%A2%C2%80%C2%99+SUPPLY+CORP) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-04-29 | [`Semaphore Solutions Inc`](https://google.com/search?q=Semaphore+Solutions+Inc) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
+| 2022-04-29 | [`Ackerman Plumbing Inc`](https://google.com/search?q=Ackerman+Plumbing+Inc) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-28 | [`quito.gob.ec`](https://google.com/search?q=quito.gob.ec) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-28 | [`LARON an otp industrial solutions company`](https://google.com/search?q=LARON+an+otp+industrial+solutions+company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-04-28 | [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -98,9 +104,3 @@ _last `100` posts_
 | 2022-04-21 | [`Morrie's Auto Group`](https://google.com/search?q=Morrie%27s+Auto+Group) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-04-21 | [`Al Bijjar`](https://google.com/search?q=Al+Bijjar) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2022-04-21 | [`tvothai.com`](https://google.com/search?q=tvothai.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-21 | [`Maristes Hermitage`](https://google.com/search?q=Maristes+Hermitage) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-21 | [`DDC Data Leak`](https://google.com/search?q=DDC+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-04-21 | [`asp.messina.it`](https://google.com/search?q=asp.messina.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-21 | [`Panasonic data breach`](https://google.com/search?q=Panasonic+data+breach) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-04-21 | [`Volvo data breach`](https://google.com/search?q=Volvo+data+breach) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
-| 2022-04-21 | [`UKG Kronos Data Leak`](https://google.com/search?q=UKG+Kronos+Data+Leak) | [darkleakmarket](https://ransomwatch.telemetry.ltd/#/profiles?id=darkleakmarket) |
