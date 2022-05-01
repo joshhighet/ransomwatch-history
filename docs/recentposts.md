@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-01 | [`zdgllc.com`](https://google.com/search?q=zdgllc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-01 | [`smtuc.pt`](https://google.com/search?q=smtuc.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-01 | [`orthopaedie-app...`](https://google.com/search?q=orthopaedie-app...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`Davis Law Group, P.C.`](https://google.com/search?q=Davis+Law+Group%2C+P.C.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-30 | [`Phoenix/Packaging Inc.`](https://google.com/search?q=Phoenix%2FPackaging+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-30 | [`Municipio de Quito`](https://google.com/search?q=Municipio+de+Quito) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-25 | [`huesser.ch`](https://google.com/search?q=huesser.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`emucor.es`](https://google.com/search?q=emucor.es) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`cronos.com.ar`](https://google.com/search?q=cronos.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-25 | [`schriesheim.de`](https://google.com/search?q=schriesheim.de) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-24 | [`KSSENTERPRISES.COM FILES PART1 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART1+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
-| 2022-04-24 | [`kdaponte.com`](https://google.com/search?q=kdaponte.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
