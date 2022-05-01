@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-01 | [`Collegiate sports medicine`](https://google.com/search?q=Collegiate+sports+medicine) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-05-01 | [`zdgllc.com`](https://google.com/search?q=zdgllc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`smtuc.pt`](https://google.com/search?q=smtuc.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`orthopaedie-app...`](https://google.com/search?q=orthopaedie-app...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-25 | [`multimmobiliare...`](https://google.com/search?q=multimmobiliare...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`huesser.ch`](https://google.com/search?q=huesser.ch) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-25 | [`emucor.es`](https://google.com/search?q=emucor.es) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-25 | [`cronos.com.ar`](https://google.com/search?q=cronos.com.ar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
