@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-02 | [`erediriva.it`](https://google.com/search?q=erediriva.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-02 | [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-02 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`Limited May Access Sale`](https://google.com/search?q=Limited+May+Access+Sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2022-05-02 | [`FRANSABANK`](https://google.com/search?q=FRANSABANK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-26 | [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`SSK Ingeniería Y Construcción S.A.C.`](https://google.com/search?q=SSK+Ingenier%C3%ADa+Y+Construcci%C3%B3n+S.A.C.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-26 | [`j-w-anderson.com`](https://google.com/search?q=j-w-anderson.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-26 | [`FRISA.com`](https://google.com/search?q=FRISA.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-26 | [`Confcommercio - Alessandria - Home`](https://google.com/search?q=Confcommercio+-+Alessandria+-+Home) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-25 | [`Danaher`](https://google.com/search?q=Danaher) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
