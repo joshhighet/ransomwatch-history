@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-02 | [`The Scholz Group`](https://google.com/search?q=The+Scholz+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`erediriva.it`](https://google.com/search?q=erediriva.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-26 | [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`SSK Ingeniería Y Construcción S.A.C.`](https://google.com/search?q=SSK+Ingenier%C3%ADa+Y+Construcci%C3%B3n+S.A.C.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-04-26 | [`j-w-anderson.com`](https://google.com/search?q=j-w-anderson.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
