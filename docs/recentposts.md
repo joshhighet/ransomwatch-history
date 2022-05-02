@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-02 | [`FRANSABANK`](https://google.com/search?q=FRANSABANK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-05-02 | [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-05-02 | [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`vestas`](https://google.com/search?q=vestas) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
 | 2022-05-01 | [`ethiopianai`](https://google.com/search?q=ethiopianai) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-26 | [`Confcommercio - Alessandria - Home`](https://google.com/search?q=Confcommercio+-+Alessandria+-+Home) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-25 | [`Danaher`](https://google.com/search?q=Danaher) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2022-04-25 | [`Mattele`](https://google.com/search?q=Mattele) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-04-25 | [`Coca-Cola`](https://google.com/search?q=Coca-Cola) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2022-04-25 | [`Waiting for next leak`](https://google.com/search?q=Waiting+for+next+leak) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
-| 2022-04-25 | [`NATION Costa Rica`](https://google.com/search?q=NATION+Costa+Rica) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
