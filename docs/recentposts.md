@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-03 | [`fivestar`](https://google.com/search?q=fivestar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`Jameco Electronics`](https://google.com/search?q=Jameco+Electronics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`PRGX Global Inc.`](https://google.com/search?q=PRGX+Global+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`The Scholz Group`](https://google.com/search?q=The+Scholz+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-26 | [`Laiteries Reunies Societe cooperative`](https://google.com/search?q=Laiteries+Reunies+Societe+cooperative) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`IMA Schelling Group`](https://google.com/search?q=IMA+Schelling+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`LACKS`](https://google.com/search?q=LACKS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-04-26 | [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
