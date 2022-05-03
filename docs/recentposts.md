@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-03 | [`Municipality of Posadas`](https://google.com/search?q=Municipality+of+Posadas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-05-03 | [`bfclcoin`](https://google.com/search?q=bfclcoin) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-05-03 | [`Instance IT Solutions India`](https://google.com/search?q=Instance+IT+Solutions+India) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-03 | [`fivestar`](https://google.com/search?q=fivestar) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`Jameco Electronics`](https://google.com/search?q=Jameco+Electronics) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-02 | [`PRGX Global Inc.`](https://google.com/search?q=PRGX+Global+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-26 | [`Oralia`](https://google.com/search?q=Oralia) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`Boswell Engineering`](https://google.com/search?q=Boswell+Engineering) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`LECHLER S.p.A.`](https://google.com/search?q=LECHLER+S.p.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-04-26 | [`Laiteries Reunies Societe cooperative`](https://google.com/search?q=Laiteries+Reunies+Societe+cooperative) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-04-26 | [`IMA Schelling Group`](https://google.com/search?q=IMA+Schelling+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-04-26 | [`LACKS`](https://google.com/search?q=LACKS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
