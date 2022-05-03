@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-03 | [`Unicity International`](https://google.com/search?q=Unicity+International) | [revil](https://ransomwatch.telemetry.ltd/#/profiles?id=revil) |
 | 2022-05-03 | [`Sarasin & partners LLP`](https://google.com/search?q=Sarasin+%26+partners+LLP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-03 | [`Municipality of Posadas`](https://google.com/search?q=Municipality+of+Posadas) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-03 | [`bfclcoin`](https://google.com/search?q=bfclcoin) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-26 | [`TÜV NORD GROUP`](https://google.com/search?q=T%C3%9CV+NORD+GROUP) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`Plauen Stahl Technologie GmbH`](https://google.com/search?q=Plauen+Stahl+Technologie+GmbH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-04-26 | [`Oralia`](https://google.com/search?q=Oralia) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-04-26 | [`Boswell Engineering`](https://google.com/search?q=Boswell+Engineering) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
