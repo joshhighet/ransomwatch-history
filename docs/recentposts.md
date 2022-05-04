@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-04 | [`Faw-Volkswagen Automobile Co., Ltd.`](https://google.com/search?q=Faw-Volkswagen+Automobile+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
+| 2022-05-04 | [`Tosoh Bioscience`](https://google.com/search?q=Tosoh+Bioscience) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-04 | [`rogz.com`](https://google.com/search?q=rogz.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`aref.government...`](https://google.com/search?q=aref.government...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-04-27 | [`warrengibson.co...`](https://google.com/search?q=warrengibson.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-27 | [`davislandscapel...`](https://google.com/search?q=davislandscapel...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-27 | [`Elgin County`](https://google.com/search?q=Elgin+County) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-27 | [`PhoenixPackagingPA`](https://google.com/search?q=PhoenixPackagingPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-27 | [`Attica Holdings S.A.`](https://google.com/search?q=Attica+Holdings+S.A.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
