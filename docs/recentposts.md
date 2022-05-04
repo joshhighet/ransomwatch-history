@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-04 | [`rogz.com`](https://google.com/search?q=rogz.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-04 | [`aref.government...`](https://google.com/search?q=aref.government...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`EYP`](https://google.com/search?q=EYP) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
 | 2022-05-03 | [`BRITISH LINK KUWAIT`](https://google.com/search?q=BRITISH+LINK+KUWAIT) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-03 | [`Asia Pacific University`](https://google.com/search?q=Asia+Pacific+University) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-27 | [`Elgin County`](https://google.com/search?q=Elgin+County) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
 | 2022-04-27 | [`PhoenixPackagingPA`](https://google.com/search?q=PhoenixPackagingPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-27 | [`Attica Holdings S.A.`](https://google.com/search?q=Attica+Holdings+S.A.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-27 | [`Alliant Physical Therapy DATA`](https://google.com/search?q=Alliant+Physical+Therapy+DATA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-27 | [`For Peru`](https://google.com/search?q=For+Peru) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-26 | [`ADA`](https://google.com/search?q=ADA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
