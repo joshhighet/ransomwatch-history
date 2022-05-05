@@ -4,11 +4,11 @@ _may 5th, 2022_
 
 currently tracking `101` groups across `146` relays & mirrors - _`55` currently online_
 
-⏲ there have been `21` posts within the `last 24 hours`
+⏲ there have been `19` posts within the `last 24 hours`
 
 🦈 there have been `70` posts within the `month of may`
 
-🪐 there have been `1084` posts within the `last 90 days`
+🪐 there have been `1083` posts within the `last 90 days`
 
 🏚 there have been `1399` posts within the `year of 2022`
 
