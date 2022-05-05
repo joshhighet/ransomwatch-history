@@ -4,6 +4,19 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-05 | [`willsent`](https://google.com/search?q=willsent) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`welplaat`](https://google.com/search?q=welplaat) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`toshfarms`](https://google.com/search?q=toshfarms) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`thebureau`](https://google.com/search?q=thebureau) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`smd`](https://google.com/search?q=smd) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`simpsonplastering`](https://google.com/search?q=simpsonplastering) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`nottco`](https://google.com/search?q=nottco) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`micropakkn`](https://google.com/search?q=micropakkn) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`mediuscorp`](https://google.com/search?q=mediuscorp) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`diager`](https://google.com/search?q=diager) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`callinc`](https://google.com/search?q=callinc) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`allwell`](https://google.com/search?q=allwell) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
+| 2022-05-05 | [`acorentacar`](https://google.com/search?q=acorentacar) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`jewelry.`](https://google.com/search?q=jewelry.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`ELTA Hellenic Post`](https://google.com/search?q=ELTA+Hellenic+Post) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-04 | [`Haynes Manuals`](https://google.com/search?q=Haynes+Manuals) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
@@ -91,16 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`Advantage Direct Care`](https://google.com/search?q=Advantage+Direct+Care) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`C&C FARMERSâ SUPPLY CORP`](https://google.com/search?q=C%26C+FARMERS%C3%A2%C2%80%C2%99+SUPPLY+CORP) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-29 | [`Semaphore Solutions Inc`](https://google.com/search?q=Semaphore+Solutions+Inc) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-29 | [`Ackerman Plumbing Inc`](https://google.com/search?q=Ackerman+Plumbing+Inc) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-28 | [`quito.gob.ec`](https://google.com/search?q=quito.gob.ec) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-28 | [`LARON an otp industrial solutions company`](https://google.com/search?q=LARON+an+otp+industrial+solutions+company) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
-| 2022-04-28 | [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-28 | [`Stratton Finance`](https://google.com/search?q=Stratton+Finance) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-28 | [`Est Ensemble`](https://google.com/search?q=Est+Ensemble) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-28 | [`Tehama County Social Services`](https://google.com/search?q=Tehama+County+Social+Services) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
-| 2022-04-28 | [`Ragle Incorporated`](https://google.com/search?q=Ragle+Incorporated) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2022-04-28 | [`hydromaxusa.com`](https://google.com/search?q=hydromaxusa.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-28 | [`Attica Group`](https://google.com/search?q=Attica+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-04-28 | [`CORFERIAS`](https://google.com/search?q=CORFERIAS) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-28 | [`ALMANIE GROUP`](https://google.com/search?q=ALMANIE+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
