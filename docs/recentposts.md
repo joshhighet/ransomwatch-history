@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-05 | [`jewelry.`](https://google.com/search?q=jewelry.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`ELTA Hellenic Post`](https://google.com/search?q=ELTA+Hellenic+Post) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-04 | [`Haynes Manuals`](https://google.com/search?q=Haynes+Manuals) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-04 | [`Zito Media`](https://google.com/search?q=Zito+Media) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-28 | [`Attica Group`](https://google.com/search?q=Attica+Group) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
 | 2022-04-28 | [`CORFERIAS`](https://google.com/search?q=CORFERIAS) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-28 | [`ALMANIE GROUP`](https://google.com/search?q=ALMANIE+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-28 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
