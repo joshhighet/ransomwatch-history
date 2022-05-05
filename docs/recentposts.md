@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-05 | [`delcourt.fr`](https://google.com/search?q=delcourt.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-05 | [`Tosoh Corporation`](https://google.com/search?q=Tosoh+Corporation) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-05 | [`willsent`](https://google.com/search?q=willsent) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`welplaat`](https://google.com/search?q=welplaat) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
 | 2022-05-05 | [`toshfarms`](https://google.com/search?q=toshfarms) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`GOLDENDUCK GROUP`](https://google.com/search?q=GOLDENDUCK+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Pacific Maritime Industries Corp.`](https://google.com/search?q=Pacific+Maritime+Industries+Corp.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
 | 2022-04-29 | [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-29 | [`Advantage Direct Care`](https://google.com/search?q=Advantage+Direct+Care) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-29 | [`C&C FARMERSâ SUPPLY CORP`](https://google.com/search?q=C%26C+FARMERS%C3%A2%C2%80%C2%99+SUPPLY+CORP) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
