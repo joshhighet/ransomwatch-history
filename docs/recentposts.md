@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-05 | [`Rollecate Group`](https://google.com/search?q=Rollecate+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-05 | [`Sole Technology`](https://google.com/search?q=Sole+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2022-05-05 | [`liceu.barcelon`](https://google.com/search?q=liceu.barcelon) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-05 | [`delcourt.fr`](https://google.com/search?q=delcourt.fr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-05 | [`Tosoh Corporation`](https://google.com/search?q=Tosoh+Corporation) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-05 | [`willsent`](https://google.com/search?q=willsent) | [mindware](https://ransomwatch.telemetry.ltd/#/profiles?id=mindware) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Building Plastics, Inc.`](https://google.com/search?q=Building+Plastics%2C+Inc.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Fonseca Supermarkets`](https://google.com/search?q=Fonseca+Supermarkets) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-29 | [`GOLDENDUCK GROUP`](https://google.com/search?q=GOLDENDUCK+GROUP) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-29 | [`Pacific Maritime Industries Corp.`](https://google.com/search?q=Pacific+Maritime+Industries+Corp.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-29 | [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
