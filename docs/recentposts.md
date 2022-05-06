@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-06 | [`nipmo.dst.gov.z...`](https://google.com/search?q=nipmo.dst.gov.z...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-06 | [`mpusd.`](https://google.com/search?q=mpusd.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-06 | [`fnoutlet.com`](https://google.com/search?q=fnoutlet.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`Next Leak On Hold`](https://google.com/search?q=Next+Leak+On+Hold) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-06 | [`PTC Industries`](https://google.com/search?q=PTC+Industries) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-05 | [`Rollecate Group`](https://google.com/search?q=Rollecate+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`Mercadocar Mercantil Ltda.`](https://google.com/search?q=Mercadocar+Mercantil+Ltda.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Suhl. City in Germany`](https://google.com/search?q=Suhl.+City+in+Germany) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`MOTIVE-ENERGY - HACKED AND 1.5 TB DATA LEAKED`](https://google.com/search?q=MOTIVE-ENERGY+-+HACKED+AND+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-04-29 | [`bri`](https://google.com/search?q=bri) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-29 | [`Associazione Bancaria Italiana`](https://google.com/search?q=Associazione+Bancaria+Italiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-29 | [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |

@@ -18428,5 +18428,20 @@
         "post_title": "Next Leak On Hold",
         "group_name": "kelvinsecurity",
         "discovered": "2022-05-06 04:28:20.557235"
+    },
+    {
+        "post_title": "fnoutlet.com",
+        "group_name": "lockbit2",
+        "discovered": "2022-05-06 11:30:54.665159"
+    },
+    {
+        "post_title": "mpusd.",
+        "group_name": "lockbit2",
+        "discovered": "2022-05-06 11:30:55.633628"
+    },
+    {
+        "post_title": "nipmo.dst.gov.z...",
+        "group_name": "lockbit2",
+        "discovered": "2022-05-06 11:30:55.905928"
     }
 ]
