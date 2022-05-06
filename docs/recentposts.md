@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-06 | [`Next Leak On Hold`](https://google.com/search?q=Next+Leak+On+Hold) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
+| 2022-05-06 | [`PTC Industries`](https://google.com/search?q=PTC+Industries) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-05 | [`Rollecate Group`](https://google.com/search?q=Rollecate+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-05 | [`Sole Technology`](https://google.com/search?q=Sole+Technology) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-05 | [`liceu.barcelon`](https://google.com/search?q=liceu.barcelon) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`bri`](https://google.com/search?q=bri) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Associazione Bancaria Italiana`](https://google.com/search?q=Associazione+Bancaria+Italiana) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-29 | [`Building Plastics, Inc.`](https://google.com/search?q=Building+Plastics%2C+Inc.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-29 | [`Fonseca Supermarkets`](https://google.com/search?q=Fonseca+Supermarkets) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
