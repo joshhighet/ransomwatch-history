@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-07 | [`realestateconsu...`](https://google.com/search?q=realestateconsu...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`nipmo.dst.gov.z...`](https://google.com/search?q=nipmo.dst.gov.z...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`mpusd.`](https://google.com/search?q=mpusd.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-06 | [`fnoutlet.com`](https://google.com/search?q=fnoutlet.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`watermarkbeachr`](https://google.com/search?q=watermarkbeachr) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`Mercadocar Mercantil Ltda.`](https://google.com/search?q=Mercadocar+Mercantil+Ltda.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-04-29 | [`Suhl. City in Germany`](https://google.com/search?q=Suhl.+City+in+Germany) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-04-29 | [`MOTIVE-ENERGY - HACKED AND 1.5 TB DATA LEAKED`](https://google.com/search?q=MOTIVE-ENERGY+-+HACKED+AND+1.5+TB+DATA+LEAKED) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
