@@ -4,6 +4,8 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-09 | [`shimamura.gr.jp`](https://google.com/search?q=shimamura.gr.jp) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-09 | [`safarni.com`](https://google.com/search?q=safarni.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-09 | [`Saskatchewan Liquor and Gaming Authority`](https://google.com/search?q=Saskatchewan+Liquor+and+Gaming+Authority) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-05-09 | [`Jefferson Credit Union`](https://google.com/search?q=Jefferson+Credit+Union) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2022-05-09 | [`Dellner Couplers AB`](https://google.com/search?q=Dellner+Couplers+AB) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -102,5 +104,3 @@ _last `100` posts_
 | 2022-04-29 | [`remar.`](https://google.com/search?q=remar.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-29 | [`www.innotecgroup.com`](https://google.com/search?q=www.innotecgroup.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-04-29 | [`Jasper County Sheriff's Office`](https://google.com/search?q=Jasper+County+Sheriff%27s+Office) | [onyx](https://ransomwatch.telemetry.ltd/#/profiles?id=onyx) |
-| 2022-04-29 | [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | [hiveleak](https://ransomwatch.telemetry.ltd/#/profiles?id=hiveleak) |
-| 2022-04-29 | [`KSSENTERPRISES.COM FILES PART2 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART2+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
