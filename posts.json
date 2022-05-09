@@ -18523,5 +18523,25 @@
         "post_title": "KSSENTERPRISES.COM FILES PART3 - 10.250.1.6\\D$\\ PUBLISHED",
         "group_name": "clop",
         "discovered": "2022-05-07 11:29:06.985990"
+    },
+    {
+        "post_title": "AHS Aviation Handling Services GmbH",
+        "group_name": "ransomhouse",
+        "discovered": "2022-05-09 00:17:19.451553"
+    },
+    {
+        "post_title": "Dellner Couplers AB",
+        "group_name": "ransomhouse",
+        "discovered": "2022-05-09 00:17:19.742157"
+    },
+    {
+        "post_title": "Jefferson Credit Union",
+        "group_name": "ransomhouse",
+        "discovered": "2022-05-09 00:17:20.011064"
+    },
+    {
+        "post_title": "Saskatchewan Liquor and Gaming Authority",
+        "group_name": "ransomhouse",
+        "discovered": "2022-05-09 00:17:20.270116"
     }
 ]
