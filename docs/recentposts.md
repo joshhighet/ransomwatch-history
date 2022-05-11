@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-11 | [`Trans Technology Pte Ltd.`](https://google.com/search?q=Trans+Technology+Pte+Ltd.) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-11 | [`Caldes de Montbui`](https://google.com/search?q=Caldes+de+Montbui) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
+| 2022-05-11 | [`Salud Total`](https://google.com/search?q=Salud+Total) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-10 | [`Black Bros. Co.`](https://google.com/search?q=Black+Bros.+Co.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2022-05-10 | [`topaces.us`](https://google.com/search?q=topaces.us) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-10 | [`sportco.com`](https://google.com/search?q=sportco.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-04-30 | [`sagefruit.com`](https://google.com/search?q=sagefruit.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-30 | [`p`](https://google.com/search?q=p) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-04-30 | [`hispanoamerican...`](https://google.com/search?q=hispanoamerican...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-30 | [`7generations.or...`](https://google.com/search?q=7generations.or...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-30 | [`w`](https://google.com/search?q=w) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-04-29 | [`Valley Rentals`](https://google.com/search?q=Valley+Rentals) | [quantum](https://ransomwatch.telemetry.ltd/#/profiles?id=quantum) |
