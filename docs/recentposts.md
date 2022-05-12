@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-12 | [`xydias.gr`](https://google.com/search?q=xydias.gr) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-05-12 | [`usu.org.au`](https://google.com/search?q=usu.org.au) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
+| 2022-05-12 | [`ats-insubria.it`](https://google.com/search?q=ats-insubria.it) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-11 | [`Campbell & Partners Consulting`](https://google.com/search?q=Campbell+%26+Partners+Consulting) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-11 | [`The People's Federal Credit Union - tpfcu.com`](https://google.com/search?q=The+People%27s+Federal+Credit+Union+-+tpfcu.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-11 | [`saskarc.com`](https://google.com/search?q=saskarc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-05-01 | [`zdgllc.com`](https://google.com/search?q=zdgllc.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`smtuc.pt`](https://google.com/search?q=smtuc.pt) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-01 | [`orthopaedie-app...`](https://google.com/search?q=orthopaedie-app...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-01 | [`Davis Law Group, P.C.`](https://google.com/search?q=Davis+Law+Group%2C+P.C.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-30 | [`Phoenix/Packaging Inc.`](https://google.com/search?q=Phoenix%2FPackaging+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2022-04-30 | [`Municipio de Quito`](https://google.com/search?q=Municipio+de+Quito) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
