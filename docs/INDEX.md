@@ -48,8 +48,8 @@
 | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | [ragnarok](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
 | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) | CONTI.News | 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
-| [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) | Error Response Page | 🔴 | 2022-05-12 | continews.click |
-| [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) | Error Response Page | 🔴 | 2022-05-12 | continews.bz |
+| [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) | Error Response Page | 🟢 |  | continews.click |
+| [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) | Error Response Page | 🟢 |  | continews.bz |
 | [pysa](https://ransomwatch.telemetry.ltd/#/profiles?id=pysa) | Pysa's Partners | 🔴 | 2022-02-22 | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
 | [nefilim](https://ransomwatch.telemetry.ltd/#/profiles?id=nefilim) |  | 🔴 | 2021-05-01 | hxt254aygrsziejn.onion |
 | [maze](https://ransomwatch.telemetry.ltd/#/profiles?id=maze) |  | 🔴 | 2021-05-01 | xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion |
@@ -125,7 +125,7 @@
 | [unknown](https://ransomwatch.telemetry.ltd/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion |
 | [rransom](https://ransomwatch.telemetry.ltd/#/profiles?id=rransom) |  | 🟢 |  | t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion |
 | [babyduck](https://ransomwatch.telemetry.ltd/#/profiles?id=babyduck) |  | 🔴 | 2021-05-01 | babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion |
-| [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |  | 🔴 | 2022-05-12 | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
+| [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |  | 🟢 |  | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
 | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [cryp70n1c0d3](https://ransomwatch.telemetry.ltd/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🟢 |  | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
 | [dread](https://ransomwatch.telemetry.ltd/#/profiles?id=dread) | Dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
@@ -135,7 +135,7 @@
 | [ransomcartel](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
 | [adminlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=adminlocker) | Admin Locker | 🟢 |  | adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |
 | [sugar](https://ransomwatch.telemetry.ltd/#/profiles?id=sugar) |  | 🔴 | 2022-05-10 | chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion |
-| [zeon](https://ransomwatch.telemetry.ltd/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🟢 |  | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
+| [zeon](https://ransomwatch.telemetry.ltd/#/profiles?id=zeon) | ZEON.Recovery - Enter the key | 🔴 | 2022-05-12 | zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |
 | [freecivilian](https://ransomwatch.telemetry.ltd/#/profiles?id=freecivilian) | Free Civilian | 🟢 |  | gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |
 | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) | Pandora Data Leak | 🔴 | 2022-05-03 | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
 | [pandora](https://ransomwatch.telemetry.ltd/#/profiles?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |
