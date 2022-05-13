@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-13 | [`www.optoma.com`](https://google.com/search?q=www.optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`PERBIT.COM FILES PART1 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART1+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`KSSENTERPRISES.COM FILES PART4 - 10.250.1.6\D$\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART4+-+10.250.1.6%5CD%24%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2022-05-13 | [`ZISSERFAMILYLAW.COM FILES PART8 - D\Shares\DATA\ PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART8+-+D%5CShares%5CDATA%5C+PUBLISHED) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-05-04 | [`Tosoh Bioscience`](https://google.com/search?q=Tosoh+Bioscience) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2022-05-04 | [`rogz.com`](https://google.com/search?q=rogz.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-04 | [`aref.government...`](https://google.com/search?q=aref.government...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
