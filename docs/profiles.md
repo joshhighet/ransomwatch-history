@@ -1118,7 +1118,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | `sgservicesud.it` | 13/05/2022 |
 | `www.optoma.com` | 13/05/2022 |
 | `boltburdonkemp....` | 13/05/2022 |
-| `conti` | 13/05/2022 |
 
 ## hiveleak
 
