@@ -4,6 +4,10 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-13 | [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`bradfordmarine....`](https://google.com/search?q=bradfordmarine....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`purapharm.com`](https://google.com/search?q=purapharm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`alliancesand.co...`](https://google.com/search?q=alliancesand.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`agapemeanslove....`](https://google.com/search?q=agapemeanslove....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -100,7 +104,3 @@ _last `100` posts_
 | 2022-05-02 | [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`Limited May Access Sale`](https://google.com/search?q=Limited+May+Access+Sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2022-05-02 | [`FRANSABANK`](https://google.com/search?q=FRANSABANK) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-05-02 | [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-05-02 | [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
-| 2022-05-02 | [`vestas`](https://google.com/search?q=vestas) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
