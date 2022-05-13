@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-13 | [`Channel Navigator business intelligence IT`](https://google.com/search?q=Channel+Navigator+business+intelligence+IT) | [kelvinsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=kelvinsecurity) |
 | 2022-05-13 | [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-05-02 | [`erediriva.it`](https://google.com/search?q=erediriva.it) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-02 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-02 | [`Limited May Access Sale`](https://google.com/search?q=Limited+May+Access+Sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
