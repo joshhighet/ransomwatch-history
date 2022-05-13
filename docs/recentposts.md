@@ -4,6 +4,9 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-13 | [`purapharm.com`](https://google.com/search?q=purapharm.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`alliancesand.co...`](https://google.com/search?q=alliancesand.co...) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
+| 2022-05-13 | [`agapemeanslove....`](https://google.com/search?q=agapemeanslove....) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`M+A Partners`](https://google.com/search?q=M%2BA+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2022-05-12 | [`zine-eskola.eus`](https://google.com/search?q=zine-eskola.eus) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-12 | [`Cjk Group, Inc.`](https://google.com/search?q=Cjk+Group%2C+Inc.) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -101,6 +104,3 @@ _last `100` posts_
 | 2022-05-02 | [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | [blackbyte](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbyte) |
 | 2022-05-02 | [`vestas`](https://google.com/search?q=vestas) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-02 | [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | [lv](https://ransomwatch.telemetry.ltd/#/profiles?id=lv) |
-| 2022-05-01 | [`ethiopianai`](https://google.com/search?q=ethiopianai) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
-| 2022-05-01 | [`card`](https://google.com/search?q=card) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
