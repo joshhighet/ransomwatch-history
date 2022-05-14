@@ -4,6 +4,7 @@ _last `100` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-14 | [`redgwick.`](https://google.com/search?q=redgwick.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-14 | [`hoffsu`](https://google.com/search?q=hoffsu) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-14 | [`optoma.com`](https://google.com/search?q=optoma.com) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-14 | [`For Costa Rica and US terrorists (Biden and his administration)`](https://google.com/search?q=For+Costa+Rica+and+US+terrorists+%28Biden+and+his+administration%29) | [conti](https://ransomwatch.telemetry.ltd/#/profiles?id=conti) |
@@ -103,4 +104,3 @@ _last `100` posts_
 | 2022-05-05 | [`jewelry.`](https://google.com/search?q=jewelry.) | [lockbit2](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit2) |
 | 2022-05-04 | [`ELTA Hellenic Post`](https://google.com/search?q=ELTA+Hellenic+Post) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2022-05-04 | [`Haynes Manuals`](https://google.com/search?q=Haynes+Manuals) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
-| 2022-05-04 | [`Zito Media`](https://google.com/search?q=Zito+Media) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
