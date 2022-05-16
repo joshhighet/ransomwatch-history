@@ -7,8 +7,8 @@
 /docs/CNAME          @joshhighet
 /docs/index.html     @joshhighet
 /.github/            @joshhighet
-/docs/               @theta-bot
-/source/             @theta-bot
-posts.json           @theta-bot
-groups.json          @theta-bot
-*                    @theta-bot
+/docs/               @ghost
+/source/             @ghost
+posts.json           @ghost
+groups.json          @ghost
+*                    @ghost

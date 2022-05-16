@@ -1,6 +1,6 @@
 FROM python:3
 
-LABEL org.opencontainers.image.source https://github.com/thetanz/ransomwatch
+LABEL org.opencontainers.image.source https://github.com/joshhighet/ransomwatch
 
 COPY *.py /
 COPY *.json /

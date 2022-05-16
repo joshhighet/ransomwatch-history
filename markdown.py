@@ -79,7 +79,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '> see the project [README](https://github.com/thetanz/ransomwatch#ransomwatch--) for backend technicals')
+    writeline(uptime_sheet, '> see the project [README](https://github.com/joshhighet/ransomwatch#ransomwatch--) for backend technicals')
 
 def indexpage():
     index_sheet = 'docs/INDEX.md'
